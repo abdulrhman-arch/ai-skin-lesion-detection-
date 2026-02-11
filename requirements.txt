@@ -1,6 +1,6 @@
 streamlit
 tensorflow==2.12.0
-numpy
+numpy<2
 pandas
 altair
 pydeck
